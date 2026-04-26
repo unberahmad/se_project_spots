@@ -37,7 +37,7 @@
 }
 
 .card__title {
-  font-family: Poppins;
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
   font-weight: 500;
   font-size: 20px;
   text-overflow: ellipsis;
@@ -66,7 +66,6 @@
 @media screen and (max-width: 629px) {
   .cards__list {
     grid-template-columns: repeat(auto-fit, 288px);
-    gap: 40px 20px;
   }
 
   .card {

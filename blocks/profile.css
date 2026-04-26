@@ -52,10 +52,10 @@
   width: fit-content;
   font-size: 16px;
   font-weight: 500;
+  cursor: pointer;
 }
 
 .profile__edit-btn:hover {
-  cursor: pointer;
   opacity: 0.8;
 }
 
