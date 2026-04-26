@@ -61,6 +61,7 @@
   width: 40px;
   border: none;
   background-color: transparent;
+  cursor: pointer;
 }
 
 .modal__close-btn-icon {
